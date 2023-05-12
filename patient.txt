@@ -1,0 +1,3 @@
+{'Cin': '21654551', 'nom': 'mohamed', 'prenom': 'mohamed', 'sexe': 'homme', 'age': '26'}
+{'Cin': '11412105', 'nom': 'chlagou', 'prenom': 'hazem', 'sexe': 'homme', 'age': '24'}
+{'Cin': '11411450', 'nom': 'abdselem', 'prenom': 'khalil', 'sexe': 'homme', 'age': '24'}
